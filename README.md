@@ -42,6 +42,7 @@
 - [React](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Spring framework](https://spring.io/projects/spring-framework)
+- [Java 21](https://www.oracle.com/br/java/technologies/downloads/#java21)
 
 ### Author
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55855981?v=4" width="100px;" alt=""/>
